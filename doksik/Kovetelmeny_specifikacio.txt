@@ -2,3 +2,5 @@
     Egy olyan weboldalt szeretnék ahol a kedvenc videóimat, önéletrajzomat elérhetem és egy bemutatkozással indul a kezdőlap. Manapság már mindenki tárolja valahol ezeket
     és böngészőből elérhető. 
 2, Jelenlegi helyzet
+    A telefonomon tárolom ezeket, de folyton kevés a tárhelyem. Ha ki kell nyomtatni az önéletrajzom akkor a papírboltba pendriven kell bevinnem, amit sok esetben
+    nem fogadnak el, mert azt mondják, hogy lehet vírusos.
