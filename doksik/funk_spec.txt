@@ -1,0 +1,24 @@
+1, Áttekintés
+    A technológia fejlődésével az internet népszerű lett mindenki körében. A cégek weblapokat kezdtek el csinálni, hogy népszerűsítsék magukat, elérhetőségüket közöljék.
+    A magán személyek is elkezdtek weboldalakt készíteni és készíttetni, hogy megkönnyítsék az információ cserét. 
+    A fejlődéssel és közösségi oldalakkal egyidejűleg a hagyományos weboldalak elveszítették funkciójukat, mivel a közösségi hálón lehetőség van "profilt" létrehozni a 
+    vállalkozásnak. Ezek a profilok sokszor praktikusabbak.
+
+2, Jelenlegi helyzet
+    A magánszemélyek ritkán fizetnek azért, hogy saját weboldaluk legyen, sok esetben egy előre telepíthető CMS rendszert használnak vagy az ingyenesen elérhetőket. 
+    Ezen oldalak áttekinthetősége egy olyan embernek aki nem ért hozzá nehézkes és sokszor nem is sikerül. Szakember, hozzá értő segítségére mindíig szükség van és 
+    néha egyszerűbb és olcsóbb egy fejlesztő céget megbízni az oldal elkészítésével, üzemeltetésével, karban tartásával. 
+
+3, Vágyálom Rendszer
+    Az általunk készített weboldal HTML-ben készülne és CSS nyelven írnánk hozzá a kinézetet. A kezdőoldal lenne az ismertető oldal Önről. Az ismertető oldalon felül lenne
+    egy navigációs menü. Ez a menü jelenne meg minden további oldalon és a menüben ki lenne emelve hogy mi az aktuális oldal. Az oldal tartalma az Ön álltal leírtakat tartalmazná.
+    A navigációs menüben a kiválasztott oldalra kattontva nyílik meg az új oldal. 
+    Ha a videók menupontra kattintanak, megnyílik az oldal és bal oldalon az előre feltöltött videók fognak megnyílni, jobb oldalon pedig a Youtube-ról beágyazott videók. 
+    Amennyiben az önéletrajzát szeretné megtekinteni akkor táblázatos (euro pass-os) formátumba lesz a rövid ismertető. Az ismertető alatt két gomb fog elhelyezkedni, 
+    az egyik gomb az önéletrajz PDF formátumban való letöltését biztosítja, míg a másik az alapértelmezett levelző programot nyitja meg, hogy e-mailt tudjon küldeni. 
+    Minden oldal alján egy gomb lesz található ami az alapértelmezett (bemutatkozó) oldalra fogja vissza irányítani.
+
+4, Jelenlegi üzleti folyamatok.
+    Jelenleg, ha az ember normális weboldalt szeretnének készítettni akkor egy olyan céget kell keresnie akik rendelkeznek referenciával és értenek a dizájnoláshoz. 
+    Az előre elkészített weboldalak sokszor nem személyre szabhatóak és el van bennük reklám helyezve, hogy az ingyenességet vagy éppen a minimális árakat fent tudják tartani
+    Egy saját oldal esetében a fenntartás érdekéből lehet reklámozni, de így a tulajdonos dönti el, hogy milyen reklámokat helyez el az oldalán. 
