@@ -83,3 +83,16 @@ body{
     float: left;
 }
 
+.footer-page {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-decoration-color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.footer-page p{
+    color: #ddd;
+}
