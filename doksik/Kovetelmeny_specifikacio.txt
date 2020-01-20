@@ -1,3 +1,4 @@
 1, Bevezetés
     Egy olyan weboldalt szeretnék ahol a kedvenc videóimat, önéletrajzomat elérhetem és egy bemutatkozással indul a kezdőlap. Manapság már mindenki tárolja valahol ezeket
     és böngészőből elérhető. 
+2, Jelenlegi helyzet
