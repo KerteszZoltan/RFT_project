@@ -36,3 +36,50 @@ body{
   background-color: grey;
   color: white;
 }
+
+.image-box {
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    float: left;
+    top: 5%;
+    left:30%;
+}
+
+.image-view{
+    width: 150px;
+    height: 150px;
+    left: 33%;
+}
+
+.page-name{
+    color: white;
+    position: fixed;
+    top: 8%;
+    left: 45%;
+    width: 80%;
+}
+
+.welcome-type{
+    color: #ddd;
+    position: fixed;
+    left: 43%;
+    top: 16%;
+}
+
+.main-page.leiras{
+    margin: auto;
+    position: fixed;
+    top: 20%;
+    left: 10%;
+    width: 80%;
+    color: #ddd;
+    text-align: justify;
+}
+
+.main-page p{
+    color: #ddd;
+    margin: auto;
+    float: left;
+}
+
