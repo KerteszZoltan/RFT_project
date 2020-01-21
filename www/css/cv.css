@@ -1,0 +1,11 @@
+.table, td, td {
+  border: 1px solid black;
+  font-size: 20px;
+  text-align: left;
+}
+.capital{
+	font-size: 25px;
+}
+.spaceUnder {
+  padding-bottom: 2em;
+}
