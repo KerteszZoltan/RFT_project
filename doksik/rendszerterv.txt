@@ -48,4 +48,23 @@
 
    Törvényi előírások:
 	- A hatályban lévő GDPR szabályozásnak meg kell felelnie.
+
+5, Funkcionális terv
+
+Rendszerszereplők:
+	-Admin
+	-Látogatók
+
+Rendszer használati esetek és lefutásaik:
+
+	Látogatók
+		-Videók lejátszása
+		-Önéletrajz megtekintése
+		-Önéletrajz letöltése
+		-Kapcsolat felvétel
+	
+	Admin:
+		-Tulajdonos adatainak módosítása
+		-Videók kezelése
+
 		
