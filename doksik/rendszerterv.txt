@@ -4,3 +4,12 @@
     Egy olyan online bemutatkozó oldalt szeretnénk létrehozni, ami használhatóságban, megjelenésben és funkcióit tekintve,a megrendelőkívánságainak eleget tesz. 
     A weboldalt bárki elfogja tudni érni és a megrendelő álltal megosztott információkat láthatja. Fontosnak tartjuk, hogy a megrendelő oldala
     mindig napra kész legyen. AZ oldalunk célja, népszerűsíteni a megrendelőt és egyben a szoftver gyártó cégünket.
+
+2, Projektterv
+
+	    Dátum		    Tevékenység						            Résztvevő(k)
+	
+    2019.12.12.-12.15.	Dokumentációk elkészítése és véglegesítése
+    2020.01.06.		    Fejlesztés megkezdése
+    2020.01.22.		    Tesztek (Unit, Alpha, Beta)
+    2020.01.22.		    Projekt átadása						        A projektben résztvevő összes szereplő
