@@ -1,9 +1,36 @@
-Mit csin�lok: Az index oldalon a fels� men�sor cv gombj�ra kattintok(�n�letrajz).
-Mit v�rok: Az gomb l�ptessen �t az �n�letrajz oldalra.
-Mi t�rt�nik: �tdob az �n�letrajz oldal�ra.
-Hibajav�t�s: -
+﻿Mit csinálok: Az index oldalon a felső menüsor cv gombjára kattintok(önéletrajz).
+Mit várok: Az gomb léptessen át az önéletrajz oldalra.
+Mi történik: Átdob az önéletrajz oldalára.
+Hibajavítás: -
 
-Mit csin�lok: Az index oldalon a fels� men�sor video gombj�ra kattintok.
-Mit v�rok: Az gomb l�ptessen �t az vide� oldalra.
-Mi t�rt�nik: �tdob a vide� oldalra.
-Hibajav�t�s: -
+Mit csinálok: Az index oldalon a felső menüsor video gombjára kattintok.
+Mit várok: Az gomb léptessen át az videó oldalra.
+Mi történik: Átdob a videó oldalra.
+Hibajavítás: -
+
+Mit csinálok: Az cv oldalon a felső menüsor index gombjára kattintok.
+Mit várok: Az gomb léptessen át az index oldalra.
+Mi történik: Átdob a index oldalra.
+Hibajavítás: -
+
+Mit csinálok: Az cv oldalon a felső menüsor video gombjára kattintok.
+Mit várok: Az gomb léptessen át az videó oldalra.
+Mi történik: Átdob a videó oldalra.
+Hibajavítás: -
+
+Mit csinálok: Az cv oldalon a felső menüsor video gombjára kattintok.
+Mit várok: Az gomb léptessen át az videó oldalra.
+Mi történik: Átdob a videó oldalra.
+Hibajavítás: -
+
+Mit csinálok: Az cv oldalon a pdf linkre kattintok.
+Mit várok: Az link töltse le a cv tartalmát pdfként.
+Mi történik: Le tölti a cv tartalmát pdf fájlként.
+Hibajavítás: -
+
+Mit csinálok: Az cv oldalon az email küldése linkre kattintok.
+Mit várok: Az link töltse be az alapértelmezett email küldő szolgáltatást
+	 és töltse ki a címet a cv oldalon lévő email címmel.
+Mi történik: Betölti az alapértelmezett email küldő szolgáltatást
+	 és kitölti a címet a cv oldalon lévő email címmel.
+Hibajavítás: -
