@@ -67,4 +67,9 @@ Rendszer használati esetek és lefutásaik:
 		-Tulajdonos adatainak módosítása
 		-Videók kezelése
 
-		
+6, Absztrakt modell
+
+    A program működése során a felhasználó kétféle szerepkörben szerepelhet: Látogató vagy admin felhasználó. Ennek megfelelően kap az alany funkciókat, 
+    amelyek a szerepkörökhöz kizárólagosan vagy nem kizárólagosan kapcsolódnak: azaz vagy csak ő fér hozzá, vagy mindenki más.
+    Ezen a szinten még csak logikai elkülönítés történik a funkciók elérésében, nem valódi. 
+    Ez azt jelenti, hogy például a zene lejátszás hozzáférhetőek mindkét szerepkör számára, de az videófeltöltés csak az admin felhasználónak érhető el.
