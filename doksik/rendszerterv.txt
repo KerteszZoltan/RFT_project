@@ -73,3 +73,8 @@ Rendszer használati esetek és lefutásaik:
     amelyek a szerepkörökhöz kizárólagosan vagy nem kizárólagosan kapcsolódnak: azaz vagy csak ő fér hozzá, vagy mindenki más.
     Ezen a szinten még csak logikai elkülönítés történik a funkciók elérésében, nem valódi. 
     Ez azt jelenti, hogy például a zene lejátszás hozzáférhetőek mindkét szerepkör számára, de az videófeltöltés csak az admin felhasználónak érhető el.
+
+7, Implementációs terv
+
+    A Webes felület főként HTML, és CSS nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni 
+    a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
