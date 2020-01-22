@@ -1,4 +1,7 @@
-﻿Mit csinálok: Az index oldalon a felső menüsor cv gombjára kattintok(önéletrajz).
+﻿Az oldalokat az "https://validator.w3.org/#validate_by_upload" oldalon validáltattam.
+
+
+Mit csinálok: Az index oldalon a felső menüsor cv gombjára kattintok(önéletrajz).
 Mit várok: Az gomb léptessen át az önéletrajz oldalra.
 Mi történik: Átdob az önéletrajz oldalára.
 Hibajavítás: -
