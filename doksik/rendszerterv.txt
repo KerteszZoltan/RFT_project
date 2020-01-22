@@ -36,4 +36,16 @@
         Kezdőoldal 	-> Önéletrajz -> Önéletrajz letöltés
                                   -> E-mail küldés
 		            -> Videók
+4, Követelmények
+
+   Funkcionális követelmények:
+	- A tulajdonos adatainak tárolása a GDPR-nak megfelelően	
+	- Webes felületen gördülékenyen kell működnie
+ 
+   Nem funkcionális követelmények:
+	- Letisztult, esztétikus kinézet
+	- Pc eszköz támogatása	
+
+   Törvényi előírások:
+	- A hatályban lévő GDPR szabályozásnak meg kell felelnie.
 		
