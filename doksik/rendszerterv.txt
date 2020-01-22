@@ -91,3 +91,12 @@ Rendszer használati esetek és lefutásaik:
 	    A teszt során a stabilitás, letisztultság növelése a cél.
 
         (A tesztekről naplót kell készíteni, amely alapján esetleges hibáknál kitölthető a hibajelentő.)
+
+9, Karbantartási terv
+
+    A szoftveren a későbbiekben nem kell nagyobb karbantartásokat elvégezni. Az esetleges karbantartások
+    a következőből állhatnak:
+        - Tesztelés frissebb veriójú böngészők használatával. Hiba észlelése esetén azok javítása
+        - A kiszolgáló szerver státuszának ellenőrzése, offline szerver esetén újraindítás.
+        - Igény esetén új funkciók hozzáadása
+        - Igény esetén új videók hozzáadása.
