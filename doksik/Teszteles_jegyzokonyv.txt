@@ -1,0 +1,9 @@
+Mit csinálok: Az index oldalon a felsõ menüsor cv gombjára kattintok(önéletrajz).
+Mit várok: Az gomb léptessen át az önéletrajz oldalra.
+Mi történik: Átdob az önéletrajz oldalára.
+Hibajavítás: -
+
+Mit csinálok: Az index oldalon a felsõ menüsor video gombjára kattintok.
+Mit várok: Az gomb léptessen át az videó oldalra.
+Mi történik: Átdob a videó oldalra.
+Hibajavítás: -
