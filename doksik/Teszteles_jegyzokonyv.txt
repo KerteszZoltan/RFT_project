@@ -34,3 +34,224 @@ Mit várok: Az link töltse be az alapértelmezett email küldő szolgáltatást
 Mi történik: Betölti az alapértelmezett email küldő szolgáltatást
 	 és kitölti a címet a cv oldalon lévő email címmel.
 Hibajavítás: -
+
+Mit csinálok: Az video oldalon a felső menüsor index gombjára kattintok.
+Mit várok: Az gomb léptessen át az index oldalra.
+Mi történik: Átdob a index oldalra.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon a felső menüsor cv gombjára kattintok.
+Mit várok: Az gomb léptessen át az cv oldalra.
+Mi történik: Átdob a cv oldalra.
+Hibajavítás: -
+
+Mit csinálok: Az cv oldalon a felső menüsor index gombjára kattintok.
+Mit várok: Az gomb léptessen át az index oldalra.
+Mi történik: Átdob a index oldalra.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található első videót elindítom, majd megállítom.
+Mit várok: Az első videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az első videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található első videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az első videó felhangosodik, majd lehalkul.
+Mi történik: Az első videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található első videót elnémítom.
+Mit várok: Az első videónak nem lesz hangja.
+Mi történik: Az első videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található első videót teljes képernyőre helyezem.
+Mit várok: Az első videó teljes képernyőbe indul el.
+Mi történik: Az első videó teljes képernyőbe indul el.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található második videót elindítom, majd megállítom.
+Mit várok: Az második videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az második videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található második videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az második videó felhangosodik, majd lehalkul.
+Mi történik: Az második videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található második videót elnémítom.
+Mit várok: Az második videónak nem lesz hangja.
+Mi történik: Az második videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található második videót teljes képernyőre helyezem.
+Mit várok: Az második videó teljes képernyőbe indul el.
+Mi történik: Az második videó teljes képernyőbe indul el.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található harmadik videót elindítom, majd megállítom.
+Mit várok: Az harmadik videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az harmadik videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található harmadik videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az harmadik videó felhangosodik, majd lehalkul.
+Mi történik: Az harmadik videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található harmadik videót elnémítom.
+Mit várok: Az harmadik videónak nem lesz hangja.
+Mi történik: Az harmadik videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található harmadik videót teljes képernyőre helyezem.
+Mit várok: Az harmadik videó teljes képernyőbe indul el.
+Mi történik: Az harmadik videó teljes képernyőbe indul el.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található negyedik videót elindítom, majd megállítom.
+Mit várok: Az negyedik videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az negyedik videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található negyedik videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az negyedik videó felhangosodik, majd lehalkul.
+Mi történik: Az negyedik videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található negyedik videót elnémítom.
+Mit várok: Az negyedik videónak nem lesz hangja.
+Mi történik: Az negyedik videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található negyedik videót teljes képernyőre helyezem.
+Mit várok: Az negyedik videó teljes képernyőbe indul el.
+Mi történik: Az negyedik videó teljes képernyőbe indul el.
+
+Mit csinálok: Az video oldalon található ötödik videót elindítom, majd megállítom.
+Mit várok: Az ötödik videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az ötödik videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található ötödik videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az ötödik videó felhangosodik, majd lehalkul.
+Mi történik: Az ötödik videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található ötödik videót elnémítom.
+Mit várok: Az ötödik videónak nem lesz hangja.
+Mi történik: Az ötödik videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található ötödik videót teljes képernyőre helyezem.
+Mit várok: Az ötödik videó teljes képernyőbe indul el.
+Mi történik: Az ötödik videó teljes képernyőbe indul el.
+
+Mit csinálok: Az video oldalon található hatodik videót elindítom, majd megállítom.
+Mit várok: Az hatodik videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az hatodik videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található hatodik videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az hatodik videó felhangosodik, majd lehalkul.
+Mi történik: Az hatodik videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található hatodik videót elnémítom.
+Mit várok: Az hatodik videónak nem lesz hangja.
+Mi történik: Az hatodik videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található hatodik videót teljes képernyőre helyezem.
+Mit várok: Az hatodik videó teljes képernyőbe indul el.
+Mi történik: Az hatodik videó teljes képernyőbe indul el.
+
+Mit csinálok: Az video oldalon található hetedik videót elindítom, majd megállítom.
+Mit várok: Az hetedik videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az hetedik videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található hetedik videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az hetedik videó felhangosodik, majd lehalkul.
+Mi történik: Az hetedik videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található hetedik videót elnémítom.
+Mit várok: Az hetedik videónak nem lesz hangja.
+Mi történik: Az hetedik videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található hetedik videót teljes képernyőre helyezem.
+Mit várok: Az hetedik videó teljes képernyőbe indul el.
+Mi történik: Az hetedik videó teljes képernyőbe indul el.
+
+
+Mit csinálok: Az video oldalon található nyolcadik videót elindítom, majd megállítom.
+Mit várok: Az nyolcadik videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az nyolcadik videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található nyolcadik videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az nyolcadik videó felhangosodik, majd lehalkul.
+Mi történik: Az nyolcadik videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található nyolcadik videót elnémítom.
+Mit várok: Az nyolcadik videónak nem lesz hangja.
+Mi történik: Az nyolcadik videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található nyolcadik videót teljes képernyőre helyezem.
+Mit várok: Az nyolcadik videó teljes képernyőbe indul el.
+Mi történik: Az nyolcadik videó teljes képernyőbe indul el.
+
+Mit csinálok: Az video oldalon található kilencedik videót elindítom, majd megállítom.
+Mit várok: Az kilencedik videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az kilencedik videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található kilencedik videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az kilencedik videó felhangosodik, majd lehalkul.
+Mi történik: Az kilencedik videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található kilencedik videót elnémítom.
+Mit várok: Az kilencedik videónak nem lesz hangja.
+Mi történik: Az kilencedik videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található kilencedik videót teljes képernyőre helyezem.
+Mit várok: Az kilencedik videó teljes képernyőbe indul el.
+Mi történik: Az kilencedik videó teljes képernyőbe indul el.
+
+Mit csinálok: Az video oldalon található tizedik videót elindítom, majd megállítom.
+Mit várok: Az tizedik videó kattintásra elindul, majd kattintásra megáll.
+Mi történik: Az tizedik videó elindul, majd megáll.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található tizedik videó hangerejét feljebb, majd lejebb veszem.
+Mit várok: Az tizedik videó felhangosodik, majd lehalkul.
+Mi történik: Az tizedik videó felhangosodik, majd lehalkul.
+Hibajavítás: -
+
+Mit csinálok: Az video oldalon található tizedik videót elnémítom.
+Mit várok: Az tizedik videónak nem lesz hangja.
+Mi történik: Az tizedik videónak nem lesz hangja.
+Hibajavítás: -
+
+
+Mit csinálok: Az video oldalon található tizedik videót teljes képernyőre helyezem.
+Mit várok: Az tizedik videó teljes képernyőbe indul el.
+Mi történik: Az tizedik videó teljes képernyőbe indul el.
+
+Hibajavítás: -
