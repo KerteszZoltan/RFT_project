@@ -29,8 +29,7 @@ Mi történik: Le tölti a cv tartalmát pdf fájlként.
 Hibajavítás: -
 
 Mit csinálok: Az cv oldalon az email küldése linkre kattintok.
-Mit várok: Az link töltse be az alapértelmezett email küldő szolgáltatást
-	 és töltse ki a címet a cv oldalon lévő email címmel.
+Mit várok: Az link töltse be az alapértelmezett email küldő szolgáltatást és töltse ki a címet a cv oldalon lévő email címmel.
 Mi történik: Betölti az alapértelmezett email küldő szolgáltatást
 	 és kitölti a címet a cv oldalon lévő email címmel.
 Hibajavítás: -
